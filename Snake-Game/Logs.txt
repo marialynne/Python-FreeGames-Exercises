@@ -1,0 +1,30 @@
+commit ae66a2a9a42ed2330964270691663482d7372b71 (HEAD -> main, origin/main, origin/HEAD)
+Author: Jorge Turner <51143651+HerrTurner@users.noreply.github.com>
+Date:   Fri May 7 10:00:15 2021 -0500
+
+    Update README.md
+
+commit ebf50e431b64fc74374ad83fccce8367a8b404e2
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 09:37:58 2021 -0500
+
+    Added snake game
+
+commit d69b641119eb272233f4ae96593e0fa325bf1da6
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 09:35:35 2021 -0500
+
+    First commit
+
+commit 225afdb511c624981d4eaf8f5a758d8689ed9cd7
+Author: manu <manu320camacho@gmail.com>
+Date:   Thu May 6 13:13:36 2021 -0500
+
+    Added food moves randomly through each step of the snake
+
+commit 6b533e7ba6570f12d90d4a698a440e477df27a9f
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Thu May 6 12:59:51 2021 -0500
+
+    Implemented random color function
+

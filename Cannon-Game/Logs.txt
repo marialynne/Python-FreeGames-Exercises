@@ -1,0 +1,49 @@
+ C:\Users\jete1\Desktop\TC1001_Actividad04> git log
+commit 0d083b37fb33f171a98953f37d93f98c8ad37272 (HEAD -> master,
+origin/master)
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 12:35:46 2021 -0500
+
+    modified speed
+
+commit baffbb648e1f290888561c02d911430448902a41
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 11:03:16 2021 -0500
+
+    Update README
+
+commit cad1ecc520dbbbef6a7457f7dfa7c9e9a894bc2e
+Merge: 239dbd0 af79e7a
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 10:59:05 2021 -0500
+
+    Merge branch 'master' of
+https://github.com/Manuel-Camacho-Padilla/Python-FreeGames_Actividad-4
+
+commit 239dbd0b5f9041c86c3df0603ec10105aecb03df
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 10:58:58 2021 -0500
+
+    Solved swap file
+
+commit 34956c4cdf2fc4c8d445e43f24b95033e721aa56
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 10:52:26 2021 -0500
+
+    Added target reset position
+
+commit e5c0e56d4eb8697bad57750f4629a3002c5d4c7f
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 10:44:56 2021 -0500
+
+    Limited target quantity
+
+commit af79e7a7e8f767f2967b5336dad9a9fb434d2f0a
+Author: Jorge Turner <51143651+HerrTurner@users.noreply.github.com>
+Date:   Fri May 7 10:11:45 2021 -0500
+
+    Create README.md
+
+commit f5a6f46e1a7fe2ff6ba3b90d7886598b77e3ea5c
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 10:09:01 2021 -0500

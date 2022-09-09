@@ -1,0 +1,59 @@
+commit 5a64c544dba49858334782e8e7c4e700699ae349 (HEAD -> main, origin3/main, origin/main, origin/HEAD)
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 13:37:17 2021 -0500
+
+    Added log.txt
+
+commit 355bd1ec3713cc6dbae93551d456654bae7b75ac
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 13:29:56 2021 -0500
+
+    Added files
+
+commit aa309eae3913bc0892c4038b45801be996291d12
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 10:01:25 2021 -0500
+
+    Modified
+
+commit cb63ec73ebf3a43233896469ae19728cb0ae2c3b
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 09:55:49 2021 -0500
+
+    Remmoved unnecessary files
+
+commit 55bf1b375701af36b7322a83e66041f9fd546be1
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 09:54:02 2021 -0500
+
+    Updated README
+
+commit 9b3c9cf371a4c0f33ebd1b9c73c2d68cdd2e4351
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 09:50:34 2021 -0500
+
+    Added paint.py file
+
+commit 917cbe621bdfa6637feed3d994ea517c1f882715
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 09:20:00 2021 -0500
+
+    First commit
+
+commit a0c848b06133990482dc2699f0d4c2b854feff6c
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Thu May 6 15:39:31 2021 -0500
+
+    Updated paint README
+
+commit 3518741d8942b6242978ad2b69bbd11a9c7767c6
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Thu May 6 12:55:41 2021 -0500
+
+    Added Color function
+
+commit 29e0cfd6ce442f03330723d4bb61d984a0ca92d5
+Author: manu <manu320camacho@gmail.com>
+Date:   Thu May 6 12:17:02 2021 -0500
+
+    Added renctangle and triangle

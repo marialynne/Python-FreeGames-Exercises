@@ -1,0 +1,45 @@
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 13:43:08 2021 -0500
+
+    Removed prints
+
+commit 03e2e626574f3d45fa55205dea742e5261b97a6a
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 13:38:44 2021 -0500
+
+    Smart ghosts
+
+commit b18b1b926a5eab8fe5528dfdc1e736b33abe3aa2
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 10:11:42 2021 -0500
+
+    Modified
+
+commit 921e33c110477c8193ce7612525169f5d46f10ef
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 09:40:57 2021 -0500
+
+    Added pacman game
+
+commit 19cb492cc13fa93badfac36ffee06d4bc844e271
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 09:39:45 2021 -0500
+
+    first commit
+
+commit a1650dd29751a3c2962b0941a0017b477fff11c4 (HEAD -> main, origin/main, origin/HEAD)
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Thu May 6 18:43:16 2021 -0500
+
+    Added new map
+
+commit dc3ad3d3b0b35daf512ef973d65794802c12d38b
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Thu May 6 18:01:48 2021 -0500
+
+    added movement speed
+commit e62911895c032196f4e282dafbf72010cf6cd073
+Author: manu <manu320camacho@gmail.com>
+Date:   Thu May 6 13:26:43 2021 -0500
+
+    Added pacman
