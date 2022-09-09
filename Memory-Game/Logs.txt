@@ -1,0 +1,33 @@
+commit adaddcf571bc9db119cc3ecdade415c3e9dcefd7 (HEAD -> master,
+origin/master, origin/HEAD)                            Author: manu
+<manu320camacho@gmail.com>
+Date:   Fri May 7 15:23:25 2021 -0500
+Unnecessary files were deleted
+commit 67c8c2e78911975f92a73e44df1d4cfc1072c6fe
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 15:21:11 2021 -0500
+Added count pairs and all up cards
+commit b873e5e7f71cf4d6ea2a1373fe292cf6853981f3
+Author: manu <manu320camacho@gmail.com>
+Date:   Fri May 7 14:59:35 2021 -0500
+centered digits
+commit 68aad5e9bf34805dad449385001e4812b2e53f84
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 12:46:11 2021 -0500
+Updated README
+commit 765033af32420a04c5924c72c7439c0e61158d3a
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 12:37:15 2021 -0500
+Added colored rows
+commit d40538ce18133e0780ceb17c53d196bb7c4606e9
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 11:49:26 2021 -0500
+Added tap counter
+commit e90ba223701a5890ca8c2ad0af3ddf183d0bf1ba
+Author: Jorge Turner <51143651+HerrTurner@users.noreply.github.com>
+Date:   Fri May 7 11:23:17 2021 -0500
+Create README.md
+commit f3e567db0f3b0335923132985ca891465676f3ff
+Author: Herr Turner <georgeeturnere@gmail.com>
+Date:   Fri May 7 11:20:01 2021 -0500
+Added memory file 
